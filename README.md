@@ -1,4 +1,10 @@
-### Hi there 👋
+### Vuejs developer in Melbourne, Australia 🥸 🦘
+
+<img src="https://github-readme-stats.vercel.app/api?username=gkweb&show_icons=true&theme=cobalt" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkweb&langs_count=8&theme=cobalt" />
+
+📫 Find me here: [Website](https://gladekettle.com.au)
 
 <!--
 **gkweb/gkweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
