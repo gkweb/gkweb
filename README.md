@@ -1,4 +1,4 @@
-### Vuejs developer in Melbourne, Australia 🥸 🦘
+### Vuejs developer in Ballarat, Australia 🥸 🦘
 
 <img src="https://github-readme-stats.vercel.app/api?username=gkweb&show_icons=true&theme=cobalt" />
 
